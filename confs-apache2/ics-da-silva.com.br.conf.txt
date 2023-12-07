@@ -1,0 +1,10 @@
+<VirtualHost *:80>
+
+	ServerName ics-da-silva.com.br
+	ServerAdmin iraikare1810@gmail.com
+	DocumentRoot /var/www/html/ics-da-silva.com.br
+	
+	ErrorLog ${APACHE_LOG_DIR}/ics-da-silva.backend.biz/error.log
+	CustomLog ${APACHE_LOG_DIR}/ics-da-silva.backend.biz/access.log combined
+
+</VirtualHost>
