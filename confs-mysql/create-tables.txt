@@ -1,14 +1,14 @@
 CREATE TABLE ics.aluno (
 	nome varchar(150) NOT NULL,
-	matricula int4 NOT NULL,
+	matricula int(16) NOT NULL,
 	CONSTRAINT aluno_pk PRIMARY KEY (matricula)
 );
 
 CREATE TABLE ics.turma (
-	id int4 NOT NULL,
+	id int NOT NULL AUTO_INCREMENT,
 	nome varchar(150) NOT NULL,
 	descricao varchar(500) NULL,
-	ano int4 NOT NULL,
+	ano int(4) NOT NULL,
 	horario varchar(6) NOT NULL,
 	CONSTRAINT turma_pk PRIMARY KEY (id)
 );
