@@ -1,0 +1,22 @@
+CREATE TABLE ics.aluno (
+	nome varchar(150) NOT NULL,
+	matricula int4 NOT NULL,
+	CONSTRAINT aluno_pk PRIMARY KEY (matricula)
+);
+
+CREATE TABLE ics.turma (
+	id int4 NOT NULL,
+	nome varchar(150) NOT NULL,
+	descricao varchar(500) NULL,
+	ano int4 NOT NULL,
+	horario varchar(6) NOT NULL,
+	CONSTRAINT turma_pk PRIMARY KEY (id)
+);
+
+CREATE TABLE ics.aluno_turma (
+	id_aluno int4 NOT NULL,
+	id_turma int4 NOT NULL,
+	CONSTRAINT aluno_turma_pk PRIMARY KEY (id_aluno, id_turma),
+	CONSTRAINT aluno_turma_fk FOREIGN KEY (id_aluno) REFERENCES ics.aluno(matricula),
+	CONSTRAINT aluno_turma_fk_1 FOREIGN KEY (id_turma) REFERENCES ics.turma(id)
+);
