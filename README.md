@@ -5,7 +5,7 @@
 ## Menu 🗂
 
 > - [Confs-apache2](https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/tree/main/confs-apache2)
-> - [Confs-mysql](https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/tree/main/Confs-mysql)
+> - [Confs-mysql](https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/tree/main/confs-mysql)
 
 ## Alunos ✨
 | [<img align="center" src="https://avatars.githubusercontent.com/u/99852137?v=4" width=150><br><sub>Iara Monyke</sub>](https://github.com/iaramonyke) |  [<img src="https://avatars.githubusercontent.com/u/101957823?v=4" width=150><br><sub>Iraikare Rodrigues</sub>](https://github.com/iraikare) |  [<img src="https://avatars.githubusercontent.com/u/95240062?v=4" width=150><br><sub>Kauã Batista</sub>](https://github.com/kuabrs) </div>|
