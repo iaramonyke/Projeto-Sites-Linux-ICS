@@ -1,0 +1,13 @@
+main{
+  display: flex;
+  column-gap: 5em;
+  align-items: center;
+  justify-content: center;
+}
+main>input{
+  height: fit-content;
+  margin-top: 0;
+  font-size: 3em !important;
+  padding-top: 0.5em !important;
+  padding-bottom: 0.5em !important;
+}
