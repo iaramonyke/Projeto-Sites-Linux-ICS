@@ -4,8 +4,6 @@
 
 ## Menu 🗂
 
-<img align="right" width="200px" src="https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/assets/101957823/d7df0e97-8bed-44e3-a457-0e9ea22acaa2" />
-
 > - [Confs-apache2](https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/tree/main/confs-apache2)
 > - [Confs-mysql](https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/tree/main/confs-mysql)
 > - [Apresentações](https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/tree/main/apresentações)
