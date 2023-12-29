@@ -1,7 +1,5 @@
 # Projeto Linux Site ICS
-
-![logo-ics](https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/assets/101957823/d7df0e97-8bed-44e3-a457-0e9ea22acaa2)
-
+  <img width="200px" src="https://github.com/iaramonyke/Projeto-Sites-Linux-ICS/assets/101957823/d7df0e97-8bed-44e3-a457-0e9ea22acaa2" />
 
 > Este projeto tem fins avaliativos na matéria de Instalação e Configuração de Servidores e consiste na configuração/implantação de Sites WEB, utilizando ferramentas Linux, que representem a utilização e administração de uma aplicação empresarial. Ele foi desenvolvido em grupo para complemento da nota do 3° bimestre.
 
